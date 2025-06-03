@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             
             // Create mailto link with form data
-            const mailtoLink = `mailto:support@danceholic.app?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
+            const mailtoLink = `mailto:wuchengen1993.dif01@g2.nctu.edu.tw?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
                 `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`
             )}`;
             
